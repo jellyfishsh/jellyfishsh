@@ -5,4 +5,3 @@
 - C.
 - vim.
 - OTW.
-- Working in silence.

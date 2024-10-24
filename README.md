@@ -3,5 +3,5 @@
 ### Learning:
 
 - C.
-- vim.
+- Rust
 - OTW.
